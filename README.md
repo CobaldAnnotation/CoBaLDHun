@@ -4,4 +4,4 @@ The Hungarian CoBaLD dataset is derived from [UD Hungarian Szeged](https://githu
 
 # Introduction 
 
-In order to create this dataset, we took the first 300 sentences from the UD Hungarian Szeged training set and annotated them with the help of our DL-based parser trained on CoBaLD Rus with the use of XLM-RoBERTa Large encoders, then professional linguists manually checked the annotation. The initial quality of the parser for DS is 90.8%, SC - 93.6%. The percent of manual corrections is 11.6% for DS and 14.6% for SC. 
+To create the dataset, we took the first 300 sentences from the UD Hungarian Szeged training set and annotated them with the help of our DL-based parser trained on CoBaLD Rus with the use of XLM-RoBERTa Large encoders. After it, the annotation was manually checked by professional linguists. The initial quality of the parser was 90.8% for semantic (deep) relations (DSs), and 93.6% - for semantic classes (SCs) in Russian. The percent of manual corrections for Hungarian annotation turned out to be 11.6% for DS and 14.6% for SC. 
