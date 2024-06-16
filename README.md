@@ -1,6 +1,6 @@
 # Summary
 
-The Hungarian CoBaLD dataset is derived from [UD Hungarian Szeged](https://github.com/UniversalDependencies/UD_Hungarian-Szeged), which in turn is derived from the Szeged Dependency Treebank (Vincze et al. 2010). It consists of the first 300 sentences from the UD Hungarian Szeged training set and it's size is 7,165 tokens.
+The Hungarian CoBaLD dataset is derived from [UD Hungarian Szeged](https://github.com/UniversalDependencies/UD_Hungarian-Szeged), which in turn is derived from the Szeged Dependency Treebank (Vincze et al. 2010). It consists of the first 300 sentences from the UD Hungarian Szeged training set and its size is 7,165 tokens.
 
 # Introduction 
 
