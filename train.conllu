@@ -3620,7 +3620,7 @@
 2	Teljesen	teljes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	3	advmod:mode	_	_	Degree	TOTALITY_OF_DEGREE
 3	hiábavaló	hiábavaló	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	0	root	_	_	State	MODALITY
 4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_	_	ARTICLES
-5	rádióban	rádió	NOUN	_	Case=Ine|Number=Sing	6	obl	_	_	Locative	MASS_MEDIA_ORGANIZATION_AND_COMMUNICATIONS
+5	rádióban	rádió	NOUN	_	Case=Ine|Number=Sing	6	obl	_	_	Locative	ORGANIZATION
 6	elhangzott	elhangzott	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPast	12	amod:att	_	SpaceAfter=No	ParticipleRelativeClause	TO_SOUND
 7	,	,	PUNCT	_	_	6	punct	_	_	_	_
 8	az	az	DET	_	Definite=Def|PronType=Art	9	det	_	_	_	ARTICLES
