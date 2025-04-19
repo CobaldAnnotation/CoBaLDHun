@@ -32,8 +32,11 @@ jobs:
           huggingface-cli login --token $HF_HUB_TOKEN
 
       - name: Build and publish
+        # Lower the train_fraction because the Hungarian dataset is small, which would result in
+        # the validation set lacking tags if the default train_fraction of 0.8 were used.
         run: |
           python DatasetTools/build_and_publish.py \
             train.conllu \
             CoBaLD/enhanced-cobald-dataset \
-            hu
+            hu \
+            --train_fraction 0.71
