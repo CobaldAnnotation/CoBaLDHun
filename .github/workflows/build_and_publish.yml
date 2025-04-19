@@ -39,4 +39,4 @@ jobs:
             train.conllu \
             CoBaLD/enhanced-cobald-dataset \
             hu \
-            --train_fraction 0.71
+            --train_fraction 0.73
